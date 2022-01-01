@@ -1,3 +1,17 @@
 body {
     background-color: aqua;
 }
+h1 {
+    color: gold;
+}
+
+table {
+    border-radius: 10px;
+    border-style: solid;
+    border-collapse: collapse;
+}
+
+table * {
+    border-radius: 5px;
+    border-style: solid;
+}
